@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ⭐
 
-<!--
-**FenixS2A/FenixS2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Luan Fellype
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou me desenvolvendo na linguagem ja java scrip
+-Utilizo esse espaço para minha organizaçao e compatilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📧
+
+00001109973032sp@al.educacao.sp.gov.br
+
+@wise._.lkb
