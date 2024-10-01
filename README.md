@@ -2,7 +2,7 @@
 
 Meu nome e Luan Fellype
 
--Estou estudando na alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem java scrip
 -Utilizo esse espaço para minha organizaçao e compatilhamento dos meus projetos desenvolvidos
 
